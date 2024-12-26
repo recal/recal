@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>👋</h1>
 
-<!--
-**recal/recal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** at [Azalea](https://github.com/azaleateam).  
+Currently, I'm working on building our upcoming Minecraft zombies gamemode, inspired by Call of Duty zombies.  
+Outside of that, I specialize in backend development and handle DevOps tasks from time to time.
 
-Here are some ideas to get you started:
+# Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Svelte, Next.js, Vue  
+- **Backend:** Go, TypeScript, Ruby, Kotlin  
+- **Miscellaneous:** Python, Nim, D, Scala
+
+<br/>
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/188832332399116288"/>
+</p>
