@@ -1,14 +1,16 @@
-<h1>👋</h1>
+# 👋 Hello!
 
-I'm a **Software Engineer** at [Azalea](https://github.com/azaleateam).  
-Currently, I'm working on building our upcoming Minecraft zombies gamemode, inspired by Call of Duty zombies.  
-Outside of that, I specialize in backend development and handle DevOps tasks from time to time.
+I'm a Software Engineer at [Azalea](https://github.com/azaleateam)<br/>
+I specialize in backend development and handle devops tasks from time to time.
 
 # Languages and Tools
 
-- **Frontend:** Svelte, Next.js, Vue  
-- **Backend:** Go, TypeScript, Ruby, Kotlin  
-- **Miscellaneous:** Python, Nim, D, Scala
+As of recent, I've been writing a lot of miscellaneous tooling in Nim but my day-to-day stack consists of:<br/>
+- Svelte or Next.js for web development.
+- Go, Nim, or TypeScript on the backend, depending on the project.
+- Kotlin for Minecraft-related services/projects.
+
+Although, this changes rather frequently as I pick up new languages to experiment with.
 
 <br/>
 <p align="center">
