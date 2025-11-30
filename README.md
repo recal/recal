@@ -9,7 +9,7 @@ As of recent, I've been writing some small backend services in Elixir but I typi
 <div>
   <img src="given-2.png" width="40%" align="left"/>
   <b>Current Activity</b><br/><br/>
-  <img src="https://lanyard.cnrad.dev/api/188832332399116288?hideProfile=true" width="58%"/><br/><br/>
+  <img src="https://lanyard.cnrad.dev/api/188832332399116288?hideProfile=true" width="55%"/><br/><br/>
   <b>Contact</b><br/><br/>
   <div align="center">
 <pre>
