@@ -4,12 +4,12 @@ Hey 👋, I'm **cal** a Software Engineer at [Azalea](https://github.com/azaleat
 
 I consider myself a Jack of all trades, but master of none due to how frequently my tech stack changes.
 
-As of recent, I've been writing realtime services in Elixir but I typically work with Kotlin, Go and TypeScript on a day-to-day basis.
+As of recent, I've been writing some small backend services in Elixir but I typically work with Kotlin, Go and TypeScript on a day-to-day basis.
 
 <div>
   <img src="given-2.png" width="40%" align="left"/>
-  <b>GitHub Statistics</b><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=recal&show_icons=true&theme=dark#gh-dark-mode-only" width="55%"/><br/>
+  <b>Current Activity</b><br/><br/>
+  <img src="https://lanyard.cnrad.dev/api/188832332399116288?hideProfile=true" width="55%"/><br/><br/>
   <b>Contact</b><br/><br/>
   <div align="center">
 <pre>
@@ -18,7 +18,7 @@ for whatever reason, you can do so via Discord:
     
 @ sntl
 
-This is my only form of contact.
+This is my only public form of contact at this time.
 </pre>
   </div>
 </div>
